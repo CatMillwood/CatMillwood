@@ -1,4 +1,3 @@
-@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CatMillwood
 - 👀 I’m interested in systems optimization, software development, data analysis, and photography.
 - 🌱 I’m currently studying Computer Science at the University of Arkansas, with minors in Psychology, Sociology, and Criminology.
